@@ -2,7 +2,7 @@
 
 This is a solution for the classification challenge `Pump it Up: Data Mining the Water Table` by `DrivenData` available at <br /> https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/ using sklearn on jupyter notebook.
 
-Followings are the pre-processing and feature engineering techniques I used to in my solution.
+Followings are the pre-processing and feature engineering techniques I used in my solution.
 
 <br />
 <br />
