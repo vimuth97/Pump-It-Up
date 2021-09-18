@@ -67,8 +67,5 @@ Followings are the pre-processing and feature engineering techniques I used in m
 <br />
 <br />
 
-## Final submission score
-<br />
-### Rank as of submission date
-<br />
+## Final submission score and rank(as of submission date)
 ![Image not found](rank.PNG?raw=true)
