@@ -64,3 +64,7 @@ Followings are the pre-processing and feature engineering techniques I used in m
     | source_type | highly correlated with `source` |
 8. Created a new feature `num_days` using existing feature `date_recorded` and carried out standard normalization.
 9. Features `permit_False` (derived from applying one-hot encoding to `permit`) and `num_private` were dropped due to low feature importance (<0.002).
+<br />
+<br />
+
+## Final submission score
